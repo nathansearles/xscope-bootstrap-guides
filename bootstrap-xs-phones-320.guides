@@ -8,48 +8,48 @@
 	<array/>
 	<key>vertical</key>
 	<array>
-		<real>423</real>
-		<real>438</real>
-		<real>461</real>
-		<real>476</real>
-		<real>491</real>
-		<real>514</real>
-		<real>529</real>
-		<real>544</real>
-		<real>567</real>
-		<real>582</real>
-		<real>597</real>
-		<real>620</real>
-		<real>635</real>
-		<real>650</real>
-		<real>673</real>
-		<real>688</real>
-		<real>703</real>
-		<real>726.5</real>
-		<real>741.5</real>
+		<real>28</real>
+		<real>348</real>
+		<real>66</real>
+		<real>81</real>
+		<real>96</real>
+		<real>43</real>
+		<real>333</real>
+		<real>120</real>
+		<real>135</real>
+		<real>150</real>
+		<real>173</real>
+		<real>188</real>
+		<real>203</real>
+		<real>226</real>
+		<real>241</real>
+		<real>256</real>
+		<real>280</real>
+		<real>295</real>
+		<real>310</real>
 	</array>
 	<key>vertical-locked</key>
 	<array>
 		<array>
-			<integer>0</integer>
+			<integer>17</integer>
 			<integer>18</integer>
-			<integer>1</integer>
+			<integer>16</integer>
+			<integer>0</integer>
+			<integer>5</integer>
 			<integer>2</integer>
 			<integer>3</integer>
 			<integer>4</integer>
-			<integer>5</integer>
-			<integer>6</integer>
 			<integer>7</integer>
 			<integer>8</integer>
-			<integer>10</integer>
 			<integer>9</integer>
+			<integer>10</integer>
 			<integer>11</integer>
 			<integer>12</integer>
 			<integer>13</integer>
 			<integer>14</integer>
 			<integer>15</integer>
-			<integer>16</integer>
-			<integer>17</integer>
+			<integer>1</integer>
+			<integer>6</integer>
 		</array>
 	</array>
 </dict>
